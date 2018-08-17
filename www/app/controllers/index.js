@@ -49,7 +49,7 @@ export default Ember.Controller.extend({
                     },
                     yAxis: {
                         title: {
-                            text: "HASHRATE",
+                            text: "本池算力",
                             style: {
                                 color: "#000"
                             }
